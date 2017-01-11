@@ -1,0 +1,91 @@
+
+Screen.css:
+
+
+.logo {
+	
+	margin: 0 0 0 0;
+        
+}
+
+body {
+    background-image: url("clearsky.jpg");
+	font-family:Arial;
+    font-size:1.2em;
+}
+
+
+#container, footer {
+    background:#f1f1f1;
+    width:930px;
+    margin:0 auto;
+    padding:20px;
+}
+
+header {
+	
+	width: 1000px;
+	height: 200px;
+	background: url("plane.jpg") no-repeat;
+	
+}
+
+
+nav ul li {
+	display:inline;
+    margin-right:10px;
+	margin-left: 10px;
+
+		
+}
+
+
+#login li.link {
+    margin-top:5px;
+}
+
+
+	#flights{
+	position:absolute;
+	top:180px;
+	left:20%;
+	}
+	
+	p,select,input,button{
+	margin:3px;
+	padding:5px;
+	
+	}
+	
+	#find{
+	width:150px;
+	height:30px;
+	position:absolute;
+	top:1045px;
+	left:auto;
+	
+	}
+	
+	#search{
+	width:150px;
+	height:30px;
+	
+	
+	}
+	
+	
+	#banner {
+	position:absolute;
+	top:440px;
+	
+	
+	}
+	#dateFormat{
+    font-size:8pt;
+    font-family:Arial;
+    padding: 5px;
+}
+#errors{
+color:red;
+}
+
